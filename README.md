@@ -41,5 +41,5 @@ Click on the link given below or follow the instrucations given below to run the
  
 ## Live Link
 
-https://verdant-hummingbird-7d7ef3.netlify.app/
+https://razorpay-clone-beta.vercel.app/#
 
